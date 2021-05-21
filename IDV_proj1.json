@@ -1,0 +1,84 @@
+[
+    {
+      "Link_name": "CUNY Commons",
+      "Original_link": "https://interactivedatavis2021.commons.gc.cuny.edu/",
+      "ID_folder": 1,
+      "count": 40
+     
+    },
+      {
+        "Link_name": "youtube tutorial 1",
+        "Original_link": "www.youtube.com",
+        "ID_folder": 1
+      },
+      {
+        "Link_name": "youtube tutorial 2",
+        "Original_link": "www.youtube.com",
+        "ID_folder": 1
+      },
+
+      {
+        "Link_name": "youtube tutorials 3",
+        "Original_link": "www.youtube.com",
+        "ID_folder": 1
+      },
+
+      {
+        "Link_name": "Github",
+        "Original_link": "www.github.com",
+        "ID_folder": 1
+      },
+
+      {
+        "Link_name": "slack channel",
+        "Original_link": "www.slack.com",
+        "ID_folder": 1
+      },
+    {
+      "Link_name": "People + AI research",
+      "Original_link": "www.youtube.com",
+      "ID_folder": 2
+     },
+
+     {
+      "Link_name": "Figma student program",
+      "Original_link": "www.youtube.comC",
+      "ID_folder": 2
+    },
+    {
+      "Link_name": "Black history month webinar",
+      "Original_link": "www.youtube.com",
+      "ID_folder": 2
+    },
+    {
+      "Link_name": "getcolor",
+      "Original_link": "www.youtube.com",
+      "ID_folder": 2
+    },
+    {
+      "Link_name": "Miro",
+      "Original_link": "www.youtube.com",
+      "ID_folder": 2
+    },
+    {
+      "Link_name": "Chartable",
+      "Original_link": "www.youtube.com",
+      "ID_folder": 2
+    },
+    {
+      "Link_name": "Retail Mall Madness",
+      "Original_link": "www.youtube.com",
+      "ID_folder": 3
+    },
+    {
+      "Link_name": "Retail Mall Madness",
+      "Original_link": "www.youtube.com",
+      "ID_folder": 3
+    },
+
+    {
+      "Link_name": "Connected Papers",
+      "Original_link": "www.youtube.com",
+      "ID_folder": 3
+    }
+  ]
